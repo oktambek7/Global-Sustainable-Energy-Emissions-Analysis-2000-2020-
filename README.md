@@ -50,3 +50,9 @@ to identify trends, regional differences, and progress toward renewable energy a
 ## Outcome & Business Value
 This project supports sustainability benchmarking, policy evaluation, and strategic planning by
 transforming historical energy data into actionable insights.
+
+## How to Run
+1. Load raw data into SQL Server / Python
+2. Execute ETL scripts
+3. Import clean dataset or views into Power BI
+4. Explore dashboards and insights.
